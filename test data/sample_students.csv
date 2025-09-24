@@ -1,0 +1,6 @@
+ID,RegNo,FullName,Email,Status,RegistrationDate,IsActive,EnrolledCourses
+STU004,2024004,"David Wilson",david@university.edu,ACTIVE,2024-01-15,true,"CS101;MATH201"
+STU005,2024005,"Emily Brown",emily@university.edu,ACTIVE,2024-01-16,true,"ENG101;HIST101"
+STU006,2024006,"Frank Miller",frank@university.edu,ACTIVE,2024-01-17,true,"CS101;ENG101"
+STU007,2024007,"Grace Taylor",grace@university.edu,INACTIVE,2024-01-18,false,"MATH201"
+STU008,2024008,"Henry Anderson",henry@university.edu,ACTIVE,2024-01-19,true,"HIST101;PHIL101"

@@ -1,0 +1,6 @@
+Code,Title,Credits,InstructorId,Semester,Department,IsActive,CreatedDate,MaxEnrollment
+HIST101,"World History",3,INST001,FALL,History,true,2024-01-01,50
+PHIL101,"Introduction to Philosophy",3,INST002,SPRING,Philosophy,true,2024-01-01,40
+BIO101,"General Biology",4,INST003,FALL,Biology,true,2024-01-01,60
+CHEM101,"General Chemistry",4,INST004,SPRING,Chemistry,true,2024-01-01,55
+PHYS101,"Physics I",4,INST005,FALL,Physics,true,2024-01-01,45
