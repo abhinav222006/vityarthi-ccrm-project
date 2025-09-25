@@ -90,11 +90,17 @@ Assertions → Input validation & state checks
 
 edu/ccrm/
 ├── domain/        # Core domain classes (Student, Course, etc.)
+
 ├── service/       # Business logic layer
+
 ├── io/            # File operations (CSV, backups)
+
 ├── util/          # Utilities (Validation, Comparators)
+
 ├── config/        # Singleton AppConfig
+
 ├── cli/           # Command Line Interface
+
 └── CCRMApplication.java  # Main entry point
 
 
